@@ -66,7 +66,7 @@
                     </div>
 
                     <div class="signin-form">
-                        <h2 class="form-title">Sign up for final on 3rd jan 2024</h2>
+                        <h2 class="form-title">Sign up for final on 4th jan 2024</h2>
                         <form method="POST" class="register-form" id="login-form">
                             <div class="form-group">
                                 <label for="your_name"><i class="zmdi zmdi-account material-icons-name"></i></label>
